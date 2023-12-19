@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/module 1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/module 1/Bài 6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/module 1/GitAndHTML" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/module 1/GitAndHTML2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/module 1/GitAndHTML3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/module 1/lythuyet/GitAndHTML3" vcs="Git" />
+  </component>
+</project>
